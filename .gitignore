@@ -1,5 +1,4 @@
 .env
 *.env
-# ignore python virtual envs
-venv/
-__pycache__/
+/base
+/db
